@@ -1,1 +1,1 @@
-console.log("This is for yolo")
+console.log("This is for Yolo")
